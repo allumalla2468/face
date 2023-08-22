@@ -10,7 +10,7 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
 counter = 0
 
-venky_img = cv2.imread("venky.jpg")  
+
 rahul_img = cv2.imread("rahul.jpg")  
 
 face_match = False
